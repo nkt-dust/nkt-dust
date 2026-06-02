@@ -1,8 +1,3 @@
-<!--
-**nkt-dust/nkt-dust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # Webエンジニアを目指して学習中
 
 ## 自己紹介
